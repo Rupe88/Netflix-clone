@@ -1,3 +1,3 @@
-# Netflix-clone'
+# Netflix-clone
 **Author:Rupesh Chaudhary**
 
